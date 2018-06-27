@@ -1,0 +1,30 @@
+{
+	"test": "this is just a test?",
+	"testn": "there are % kittens",
+	"this is %s func": {
+		"one": "this is %s func",
+		"other": "this is %s funcs"
+	},
+	"this is %d func": {
+		"one": "this is %d func",
+		"other": "this is %d funcs"
+	},
+	"Results: %s cat": {
+		"one": "Results: %s cat",
+		"other": "Results: %s catS"
+	},
+	"Hello {{ name }}": "Hello {{ name }}",
+	"%s cat": {
+		"one": "%s cat",
+		"other": "%s cats"
+	},
+	"%s dog": {
+		"one": "%s dog",
+		"other": "%s dogs"
+	},
+	"Hello": "Hello",
+	"Da ist eins Ship": {
+		"one": "Da ist eins Ship",
+		"other": "Da sind %s Shipzen"
+	}
+}

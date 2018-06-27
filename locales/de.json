@@ -1,0 +1,15 @@
+{
+	"%s dog": {
+		"one": "ein Hund",
+		"other": "%s Hunde"
+	},
+	"Hello": "Hallo",
+	"There are %s sheep": {
+		"one": "There are %s sheep",
+		"other": "Da sind %s Shipzen"
+	},
+	"Da ist eins Ship": {
+		"one": "Da ist eins Ship",
+		"other": "Da sind %s Shipzen"
+	}
+}
